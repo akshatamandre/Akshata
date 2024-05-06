@@ -1,12 +1,10 @@
 package SampleCodes;
 
-public class hello {
+public class World {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hello");
-		System.out.println("hello!Akshata");
-
+      System.out.println("Welcome");
 	}
 
 }
